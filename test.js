@@ -3,5 +3,7 @@ const test = () => {
 };
 test();
 
+const test2 = "something";
+
 console.log("test");
 learn;
